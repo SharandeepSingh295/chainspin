@@ -13,7 +13,11 @@ Traditional online games often hide their random number generation and outcomes,
 This project was built as a **learning and demo project** for beginners to explore:
 - Smart contract programming in Solidity  
 - Blockchain randomness using `commit–reveal`  
-- Event-driven architecture and provable outcomes  
+- Event-driven architecture and provable outcomes
+
+- 
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0489d9b1-c78b-4f04-a6f8-e575be4c9f87" />
+
 
 ---
 
