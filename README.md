@@ -3,11 +3,7 @@
 **ChainSpin** is a beginner-friendly, transparent, and verifiable **on-chain wheel game** built with Solidity.  
 It demonstrates how to create a **fair, provable, and decentralized betting mechanism** using the **commit–reveal** pattern — where randomness and outcomes are fully auditable on the blockchain.
 
-![Uploading Screenshot (14).png…]()
-
-
-![Uploading Screenshot (14).png…]()
-
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/2973441c-f927-49ca-a3a8-9c7eb1aaea7c" />
 
 ---
 
